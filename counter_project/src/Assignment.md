@@ -1,0 +1,1 @@
+Make a meathod that :    when we click on remove value button on counter we made it does not go below zero and shouldn't exceed 20. 
